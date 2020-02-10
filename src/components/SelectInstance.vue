@@ -20,11 +20,8 @@ export default {
   data() {
     return {
       instances: [],
-<<<<<<< HEAD
-      selectedInstance: ''
-=======
+      selectedInstance: '',
       localComponentId: ''
->>>>>>> master
     }
   },
   methods: {
